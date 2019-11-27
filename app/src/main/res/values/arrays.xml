@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wishes">
+        <item>Dużo szczęścia i zdrowia z okazji imienin</item>
+        <item>Dużo zdrowia i miłości,moc uśmiechu i słodkości.</item>
+        <item>Wszystkiego najlepszego z okazji urodzin!!!</item>
+        <item>Sukcesów w pracy,a zwłaszcza w miłości,dużo uśmiechu i dużo radości</item>
+        <item>100 lat!!!</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Wishes</string>
+    <string name="select_person_button_text">Wybierz osobę</string>
+    <string name="send_wishes_button_text">Wyślij życzenia</string>
+    <string name="select_wishes_dialog_text">Wybierz życzenia</string>
+</resources>
