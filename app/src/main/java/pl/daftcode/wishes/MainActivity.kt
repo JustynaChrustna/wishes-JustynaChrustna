@@ -45,6 +45,7 @@ class MainActivity : AppCompatActivity() {
                     putExtra("sms_body", text)
                 }
                 startActivity(intent)
+                //
 
             }
             val dialog=dialogBuilder.create()
