@@ -30,10 +30,5 @@
         android:layout_marginHorizontal="@dimen/small_margin"
         android:text="@string/select_person_button_text"
         />
-    <TextView
-        android:id="@+id/txtView"
-        android:text="Selected Item"
-        android:textSize="20sp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+
 </LinearLayout>
